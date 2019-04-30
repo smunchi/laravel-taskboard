@@ -1,0 +1,45 @@
+.datatable-column-search {
+    width: 105px;
+}
+
+.activity-block {
+    background: #252d47;
+    width: 100%;
+    display: block;
+    float: left;
+    margin: 15px auto 15px auto;
+    padding: 15px 13px;
+    position: relative;
+}
+
+.activity-block p {
+    color: #c8d4f9;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.activity-block h5 {
+    color: white;
+}
+
+.activity-block .bg-icon {
+    font-size: 100px;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    top: 10px;
+    left: 0;
+    opacity: 0.1;
+    padding: 0 15px;
+}
+.activity-block i {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.no-border {
+    border: 0;
+}
+.padding-top-20 {
+    padding-top: 20px;
+}
